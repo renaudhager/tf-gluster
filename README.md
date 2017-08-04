@@ -1,8 +1,8 @@
-# tf-dns
+# tf-gluster
 
 ## Description
 This repo contain terrraform code to build a dns/consul stack  :
-- dns server
+- Gluster server
 
 
 You will need to create a file named : terraform.tfvars to store sensitives variables.
